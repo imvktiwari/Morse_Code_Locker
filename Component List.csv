@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R2",1,"220 kΩ Resistor"
+"D2",1,"Yellow LED"
+"S1",1," Pushbutton"
+"U2",1," LCD 16 x 2"
+"R1",1,"220 Ω Resistor"
+"R5",1,"2.2 kΩ Resistor"
+"SERVO1",1,"Positional Micro Servo"
